@@ -1,0 +1,4 @@
+requests==2.31.0
+bs4==0.0.2
+Faker==25.3.0
+fake-useragent==1.5.1
